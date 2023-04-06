@@ -1,0 +1,14 @@
+﻿  源.cpp
+  cl_version.h: CL_TARGET_OPENCL_VERSION is not defined. Defaulting to 300 (OpenCL 3.0)
+E:\graduation_dataset\graduation_project\OpenCL-ALS-CG\源.cpp(18,34): warning C4305: “初始化”: 从“double”到“float”截断
+E:\graduation_dataset\graduation_project\OpenCL-ALS-CG\源.cpp(126,17): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+E:\graduation_dataset\graduation_project\OpenCL-ALS-CG\源.cpp(127,19): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+E:\graduation_dataset\graduation_project\OpenCL-ALS-CG\源.cpp(173,19): warning C4305: “=”: 从“double”到“float”截断
+E:\graduation_dataset\graduation_project\OpenCL-ALS-CG\源.cpp(193,50): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\graduation_dataset\graduation_project\OpenCL-ALS-CG\源.cpp(242,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\graduation_dataset\graduation_project\OpenCL-ALS-CG\源.cpp(244,45): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\graduation_dataset\graduation_project\OpenCL-ALS-CG\源.cpp(246,49): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\graduation_dataset\graduation_project\OpenCL-ALS-CG\源.cpp(266,9): warning C4552: ”-“: 未使用表达式结果
+E:\graduation_dataset\graduation_project\OpenCL-ALS-CG\源.cpp(332,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\graduation_dataset\graduation_project\OpenCL-ALS-CG\源.cpp(332,56): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  OpenCL-ALS-CG.vcxproj -> E:\graduation_dataset\graduation_project\x64\Debug\OpenCL-ALS-CG.exe
